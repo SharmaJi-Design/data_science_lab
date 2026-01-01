@@ -1,0 +1,3 @@
+Hello, this is the first line.
+Python file handling is easy.
+This is the third line.
